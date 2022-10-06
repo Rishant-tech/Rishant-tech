@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rishant-tech
+- 👀 I’m interested in working with Data Science and Machine Learning
+- 🌱 I’m currently learning how to make machine able to identify sentiments
+- 📫 How to reach me @raj.rishi4352@gmail.com
