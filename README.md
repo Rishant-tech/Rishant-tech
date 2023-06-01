@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Rishant-tech
-- 👀 I’m interested in working with Data Science and Machine Learning
-- 🌱 I’m currently learning how to make machine able to identify sentiments
-- 📫 How to reach me @raj.rishi4352@gmail.com
+- 👀 I’m interested in working with BlockChain
+- 🌱 I’m currently learning how to make machine able to identify sentiments and how to customize blockchain
+- 📫 How to reach me @raj.rishi4352@gmail.com , @rrajpoot@datopic.com 
