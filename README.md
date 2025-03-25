@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Rishant-tech
-- 👀 I’m interested in working with BlockChain
-- 🌱 I’m currently learning how to customize blockchain and extend its architecture
-- 📫 How to reach me @raj.rishi4352@gmail.com , @rrajpoot@datopic.com 
+- 👀 I’m interested in driving innovations
+- 🌱 I’m currently learning how to think out of the box, to ship a completely new and light weighted product
+- 📫 How to reach me @raj.rishi4352@gmail.com , @rishant.rajpoot21@gmail.com
