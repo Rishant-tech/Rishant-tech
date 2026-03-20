@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend Development <br>👯 I’m looking to collaborate on to ship products based on AI<br>🌱 I’m currently learning Frontend<br>⚡ Fun fact - Use AI everywhere no to replace but to ship like a ROBO
+🔭 I’m currently working on Highly Scalable Backend Development <br>👯 I’m looking to collaborate on to ship products based on AI<br>🌱 I’m currently learning Frontend<br>⚡ Fun fact - Use AI everywhere no to replace but to ship like a ROBO
 
 
 ## 🌐 Socials:
