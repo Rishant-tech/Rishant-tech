@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-- 🔭 Building high-performance Golang microservices @ Brevo — **20M+ daily requests**
+- 🔭 Building high-performance Golang microservices @ Brevo — **200M+ daily requests**
 - ⛓️ Independently forked Ethereum, built & deployed a custom blockchain on testnet — **20L+ users**
 - 🤖 AI-first engineer — Claude, ChatGPT, Cursor daily → **50-60% productivity boost**
 - 🌱 Currently learning DSA, GenAI & RAG architectures
