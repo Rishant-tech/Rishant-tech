@@ -1,16 +1,17 @@
 # Hi there, I'm Rishant Rajpoot 👋
 
-### Backend Engineer | Golang | Distributed Systems | Blockchain | AI-First
+### Full Stack Engineer | Golang | Python | NextJS | Distributed Systems | AI-First
 
 ---
 
 ## 💫 About Me
 
-- 🔭 Building high-performance Golang microservices @ Brevo — **200M+ daily requests**
-- ⛓️ Independently forked Ethereum, built & deployed a custom blockchain on testnet — **20L+ users**
-- 🤖 AI-first engineer — Claude, ChatGPT, Cursor daily → **50-60% productivity boost**
-- 🌱 Currently learning DSA, GenAI & RAG architectures
-- ⚡ Fun fact: I use AI everywhere — not to replace thinking, but to **ship like a ROBO** 🚀
+- 🔭 Building and hardening production-grade systems with Golang, Docker, PostgreSQL, Redis, and Next.js
+- 🧱 Focused on clean startup flows, persistence, disaster recovery, and operational safety
+- ⛓️ Independently forked Ethereum and deployed a custom blockchain testnet
+- 🤖 AI-first engineer who uses Claude, ChatGPT, and Cursor daily to ship faster without losing rigor
+- 🌱 Currently sharpening DSA, system design, GenAI, and RAG architecture
+- ⚡ Fun fact: I use AI everywhere, but I still care about correctness, verification, and clean engineering
 
 ---
 
@@ -45,6 +46,22 @@
 > Secure CLI app with bcrypt authentication, TOTP-based 2FA (Google Authenticator), session management, account lockout, and PostgreSQL persistence — fully containerized with Docker.
 
 `Golang` `PostgreSQL` `Docker` `TOTP` `bcrypt` `Docker Compose` `Auto Migrations`
+
+---
+
+## 🚀 Featured Projects
+
+### [Sanjay MultiStore](https://github.com/Rishant-tech/Sanjay-MultiStore-BE)
+> Production-hardening work across a full-stack e-commerce + MLM system: dynamic sponsor bootstrap, startup orchestration, Docker persistence, backup/restore flow, auth robustness, and frontend error handling.
+
+`Go` `Next.js` `PostgreSQL` `Redis` `Docker` `MLM` `Disaster Recovery`
+
+---
+
+### [AstraWealth AI](https://github.com/Rishant-tech/AstraWealth-AI)
+> Full-stack AI-powered investment analysis platform for Indian stocks, mutual funds, gold, silver, and portfolio planning. The product combines a Go backend, Next.js frontend, deterministic scoring, live market refresh, and scenario-based analysis.
+
+`Go` `Next.js` `Stock Analysis` `Portfolio Planning` `PostgreSQL` `Redis` `AI Explanations`
 
 ---
 
