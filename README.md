@@ -28,29 +28,6 @@
 
 ## 🚀 Featured Projects
 
-### [Chrome Automation MCP](https://github.com/Rishant-tech/chrome-automation-mcp)
-> An MCP server for driving Google Chrome from Codex or any MCP client. Supports launching or attaching to Chrome, opening URLs, searching the web, clicking, typing, evaluating JavaScript, and capturing screenshots.
-
-`Go` `MCP` `Chrome` `Automation` `Chromedp` `Browser Tools`
-
----
-
-### [Negotiation Agent](https://github.com/Rishant-tech/negotiation-Agent)
-> An AI negotiation chatbot for WhatsApp that combines Claude AI with a deterministic negotiation engine to handle product price negotiations through Twilio and Redis-backed state.
-
-`Go` `Claude AI` `WhatsApp` `Twilio` `Redis` `Deterministic Engine`
-
----
-
-### [GoLoginApp — Containerized CLI Login System](https://github.com/Rishant-tech/golang-cli-app)
-> Secure CLI app with bcrypt authentication, TOTP-based 2FA (Google Authenticator), session management, account lockout, and PostgreSQL persistence — fully containerized with Docker.
-
-`Golang` `PostgreSQL` `Docker` `TOTP` `bcrypt` `Docker Compose` `Auto Migrations`
-
----
-
-## 🚀 Featured Projects
-
 ### [Sanjay MultiStore](https://github.com/Rishant-tech/Sanjay-MultiStore-BE)
 > Production-hardening work across a full-stack e-commerce + MLM system: dynamic sponsor bootstrap, startup orchestration, Docker persistence, backup/restore flow, auth robustness, and frontend error handling.
 
