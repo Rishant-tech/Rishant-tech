@@ -1,6 +1,6 @@
 # Hi there, I'm Rishant Rajpoot 👋
 
-### Full Stack Engineer | Golang | Python | NextJS | Distributed Systems | AI-First
+### Backend & Distributed Systems Engineer | Golang | AI-First
 
 ---
 
