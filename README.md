@@ -13,12 +13,6 @@
 - 🌱 Currently sharpening DSA, system design, GenAI, and RAG architecture
 - ⚡ Fun fact: I use AI everywhere, but I still care about correctness, verification, and clean engineering
 
----
-
-<img width="1506" height="859" alt="Screenshot 2026-05-19 at 6 20 43 PM" src="https://github.com/user-attachments/assets/571cf6b1-00af-4387-8b74-df03f668a01d" />
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishant-rajpoot-608ba51a3/)
